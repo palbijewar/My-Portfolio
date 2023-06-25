@@ -22,7 +22,10 @@ import {
   carrent,
   jobit,
   tripguide,
+  calc,
   threejs,
+  chatBox,
+  blurp,
 } from "../assets";
 
 export const navLinks = [
@@ -169,7 +172,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: chatBox,
     source_code_link: "https://github.com/palbijewar/ChatBox-App",
   },
   {
@@ -190,7 +193,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: "https://image.lexica.art/full_jpg/fd5841e5-5825-45e7-9c84-cfa44cce6232",
     source_code_link: "hhttps://github.com/Priyanshsharma21/Sociomate",
   },
   {
@@ -211,7 +214,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: "https://image.lexica.art/md2/9c2c89a7-606e-4ada-be7e-3fc7bf3f4807",
     source_code_link: "https://github.com/palbijewar/E-commerce",
   },
   {
@@ -232,7 +235,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: blurp,
     source_code_link: "https://github.com/palbijewar/BLURP-app",
   },
   {
@@ -253,7 +256,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: "https://image.lexica.art/full_jpg/36d08de1-ea20-4e14-a0e5-b388249b525b",
     source_code_link: "https://github.com/palbijewar/book-management-app",
   },
   {
@@ -274,7 +277,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: "https://image.lexica.art/full_jpg/0bc47fef-2edf-424c-8b64-b4e1de5ecf08",
     source_code_link: "https://github.com/palbijewar/Aesthetic-Calculator",
   },
 ];
