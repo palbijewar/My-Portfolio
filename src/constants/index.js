@@ -12,6 +12,7 @@ import {
   tailwind,
   nodejs,
   mongodb,
+  nexalogo,
   git,
   figma,
   docker,
@@ -101,6 +102,7 @@ const experiences = [
   {
     title: "Backend Developement Trainee",
     company_name: "FunctionUp",
+    icon:"https://media.licdn.com/dms/image/C4D0BAQHn-mst7Jf8Pw/company-logo_200_200/0/1638195127235?e=1695859200&v=beta&t=FSQkXSS5ZtUS5K0t06OrefDXQ3Cu2RwuKKOesTrLQKg",
     iconBg: "#383E56",
     date: "March 2022 - February 2023",
     points: [
@@ -114,6 +116,7 @@ const experiences = [
   {
     title: "Front-End Developer",
     company_name: "AITRADEX CLOUD TECHNOLOGIES PVT. LTD.",
+    icon:nexalogo,
     iconBg: "#383E56",
     date: "March 2022 - February 2023",
     points: [
