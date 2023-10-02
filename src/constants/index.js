@@ -100,11 +100,26 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Junior Software Engineer",
+    company_name: "Orxa Energies Pvt. Ltd.",
+    icon:"https://th.bing.com/th/id/OIP.RYOFwYiFj-GiEOvMpGqXwgHaGZ?pid=ImgDet&rs=1",
+    iconBg: "#383E56",
+    date: "August 2022 - Present",
+    points: [
+   " Full-stack development using Node.js and React.",
+      "Expertise in MongoDB, Redis, and AWS for data management and cloud infrastructure by using it for developing the company’s personal ERP software for internal management.",
+      	"Implementation of real-time features with WebSockets for web app and ERP software.",
+      	"Problem-solving and collaboration with cross-functional teams.",
+      	"Continuous learning and adaptation to industry best practices."
+      ,
+    ],
+  },
+  {
     title: "Backend Developement Trainee",
     company_name: "FunctionUp",
-    icon:"https://media.licdn.com/dms/image/C4D0BAQHn-mst7Jf8Pw/company-logo_200_200/0/1638195127235?e=1695859200&v=beta&t=FSQkXSS5ZtUS5K0t06OrefDXQ3Cu2RwuKKOesTrLQKg",
+    icon:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSxqSQvdphysq-025UMye5JHmmc7HZsBzDiTaLn9f3O5EICCaN5UgYi4b1onoPk6X7Xik&usqp=CAU",
     iconBg: "#383E56",
-    date: "March 2022 - February 2023",
+    date: "March 2022 - July 2023",
     points: [
       "Backend developer at Function Up.",
       "Skills in Node.js, MongoDB, Express.js, JavaScript, HTML", "CSS, Axios, Redis, Socket.io, MySQL, AWS, React, Vite, Git, and GitHub.",
