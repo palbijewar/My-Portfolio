@@ -100,7 +100,21 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Junior Software Engineer",
+    title: "Software Developer",
+    company_name: "Bhavitha Tech Solutions Pvt. Ltd.",
+    icon:"https://media.designrush.com/agencies/334632/conversions/Bhavitha-TechSolutions-logo-profile.jpg",
+    iconBg: "#383E56",
+    date: "April 2024 - Present",
+    points: [
+      "Full-stack development using Node.js, React, NestJS, PostgreSQL, and AWS services like S3, Lambda, and API Gateway.",
+      "Expertise in MongoDB, Redis, and AWS for data management and cloud infrastructure, leveraging these for developing the company’s personal ERP software for internal management.",
+      "Implemented real-time features with WebSockets in web apps and ERP software for enhanced interactivity.",
+      "Collaborated effectively with cross-functional teams, contributing to problem-solving and achieving project goals.",
+      "Committed to continuous learning and staying updated with industry best practices to enhance software development techniques."
+    ],
+  },
+  {
+    title: "Junior Software Developer",
     company_name: "Orxa Energies Pvt. Ltd.",
     icon:"https://th.bing.com/th/id/OIP.RYOFwYiFj-GiEOvMpGqXwgHaGZ?pid=ImgDet&rs=1",
     iconBg: "#383E56",
@@ -129,7 +143,7 @@ const experiences = [
     ],
   },
   {
-    title: "Front-End Developer",
+    title: "Front-End Developer Intern",
     company_name: "AITRADEX CLOUD TECHNOLOGIES PVT. LTD.",
     icon:nexalogo,
     iconBg: "#383E56",

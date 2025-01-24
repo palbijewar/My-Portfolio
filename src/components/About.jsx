@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-I'm a web developer specializing in the MERN (MongoDB, Express.js, React.js, Node.js) stack. With expertise in all aspects of the stack, I create dynamic and user-friendly web applications. My skills include developing scalable databases using MongoDB, building robust server-side applications with Express.js, and crafting intuitive user interfaces with React.js. With Node.js, I seamlessly integrate server-side logic, ensuring smooth functionality across the entire application. I thrive on collaboration, effective communication, and delivering exceptional results. Let's connect and transform your ideas into impressive online solutions.
+I’m a full-stack web developer with a passion for building dynamic and user-friendly applications. I specialize in creating scalable solutions and seamless integrations, ensuring smooth functionality across all layers of the stack. Let's connect and bring your ideas to life.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
